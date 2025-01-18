@@ -1,0 +1,5 @@
+#ignore 'out' folder
+out/
+
+#ignore '.vscode' folder
+.vscode/
