@@ -2,8 +2,6 @@
 
 package Arrays;
 
-import java.util.*;
-
 public class MultipleMissing 
 {
     public static void main(String[] args) 
@@ -21,7 +19,7 @@ static void multipleMissingNumbers(int a [], int N)
     {
       int num = a[i];
       
-      if(num >= 1 && num <= N)
+      if(num >= 1 && num <= N)  //Checks whether the element is in given limit
       freq [num] = 1;
 
       else{
