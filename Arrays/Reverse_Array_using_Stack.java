@@ -14,10 +14,10 @@ public class Reverse_Array_using_Stack
 
   }    
 
-static List reverseArray(int a[])
+static List<Integer> reverseArray(int a[])
   {
 
-    List<Integer> al = new ArrayList<>();
+    ArrayList<Integer> al = new ArrayList<>();
     Stack <Integer> st = new Stack<>();
     
     for(int p : a)

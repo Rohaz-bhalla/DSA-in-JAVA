@@ -1,4 +1,4 @@
-package CollectionClasses;
+package Arrays;
 
 
 import java.util.*;
