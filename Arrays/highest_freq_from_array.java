@@ -1,5 +1,3 @@
-package Arrays;
-
 import java.util.*;
 
 public class highest_freq_from_array 

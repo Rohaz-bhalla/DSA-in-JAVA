@@ -1,8 +1,6 @@
 // An array of size 9 is supposed to contain random numbers from 1-10 out of which one is missing. Find the missing
 
-package Arrays;
-
-import java.util.*;
+// import java.util.*;
 
 public class Find_missing 
 {
@@ -16,7 +14,7 @@ public class Find_missing
 
      {
         int expected_sum = N*(N+1)/2;
-        int actual_sum = Arrays.stream(a).sum(); //it adds the array, if import option not avialable then we can use java.util. here
+        int actual_sum = java.util.Arrays.stream(a).sum(); //it adds the array, if import option not avialable then we can use java.util. here
 
         int diff = Math.abs(actual_sum - expected_sum);
 

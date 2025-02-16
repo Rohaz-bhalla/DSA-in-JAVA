@@ -1,5 +1,3 @@
-package Arrays;
-
 import java.util.*;
 
 public class ContainsDuplicate_leetcode217 

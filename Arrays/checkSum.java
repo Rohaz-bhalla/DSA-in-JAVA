@@ -1,7 +1,5 @@
 // To check the sum with the targeted value which is given
 
-package Arrays;
-
 import java.util.*;
 
 public class checkSum 

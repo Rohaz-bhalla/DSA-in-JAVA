@@ -1,5 +1,3 @@
-package Arrays;
-
 import java.util.*;
 
 public class Reverse_Array_using_Stack 

@@ -1,5 +1,3 @@
-package Arrays;
-
 public class max_differnce 
 {
   public static void main(String[] args) 

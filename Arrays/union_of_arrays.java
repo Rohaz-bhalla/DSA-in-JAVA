@@ -1,5 +1,3 @@
-package Arrays;
-
 import java.util.*;
 
 public class union_of_arrays 

@@ -1,6 +1,3 @@
-package Arrays;
-
-
 import java.util.*;
 
 public class finding_minDiff 

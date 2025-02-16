@@ -1,7 +1,5 @@
 // To reverse a given array
 
-package Arrays;
-
 import java.util.*;
 
 public class Reverse_Array 

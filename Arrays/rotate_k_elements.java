@@ -1,5 +1,3 @@
-package Arrays;
-
 import java.util.*;
 
 public class rotate_k_elements 

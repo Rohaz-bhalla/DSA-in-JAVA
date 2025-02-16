@@ -1,7 +1,5 @@
 //To find multiple missing numbers in an array
 
-package Arrays;
-
 public class MultipleMissing 
 {
     public static void main(String[] args) 

@@ -1,7 +1,5 @@
 //To find multiple missing numbers using list 
 
-package Arrays;
-
 import java.util.*;
 
 public class Find_Missing_using_arrays 

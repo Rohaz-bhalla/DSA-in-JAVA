@@ -1,5 +1,3 @@
-package Arrays;
-
 public class monotonicArray_leetcode896 
 {
    public static void main(String[] args) 

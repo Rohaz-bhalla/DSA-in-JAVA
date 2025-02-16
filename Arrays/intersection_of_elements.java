@@ -1,5 +1,3 @@
-package Arrays;
-
 import java.util.*;
 
 public class intersection_of_elements 
@@ -26,7 +24,7 @@ public class intersection_of_elements
 
         for(int i=0; i<=b.length-1; i++)
         {
-            if(hs.add(b[i]) == false)
+            if(hs.add(b[i]) == false)  //already exists in the HashSet hs.
             {
                 al.add(b[i]);
             }
