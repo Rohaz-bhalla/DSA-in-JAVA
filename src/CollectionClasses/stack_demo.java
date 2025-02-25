@@ -27,6 +27,8 @@ public static void main(String[] args)
     System.out.print("Enter your fifth number: ");
     int e = sc.nextInt();
 
+    sc.close();
+
     st.push(a);
     st.push(b);
     st.push(c);

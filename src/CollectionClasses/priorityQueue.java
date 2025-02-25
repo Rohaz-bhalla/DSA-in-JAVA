@@ -3,13 +3,14 @@ package CollectionClasses;
 
 import java.util.*;
 
-public class queues 
+public class priorityQueue
 {
-    //de-queue
+public static void main(String[] args) 
+{
+     // PriorityQueue<Integer> pq = new PriorityQueue<>();  //uses min-Heap by default(asc order)
 
-    public static void main(String[] args)
-    {
-    ArrayDeque<Integer> dq = new ArrayDeque<>();
+     PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());  // uses max-heap(desc order)
+
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter your first number: ");
     int a = sc.nextInt();
@@ -21,19 +22,21 @@ public class queues
     int d = sc.nextInt();
     System.out.print("Enter your fifth number: ");
     int e = sc.nextInt();
+     
+    sc.close();
 
-    dq.addFirst(a);
-    dq.addFirst(b);
-    dq.addFirst(c);
-    dq.addLast(d);
-    dq.addLast(e);
+    pq.add(a);
+    pq.add(b);
+    pq.add(c);
+    pq.add(d);
+    pq.add(e);
 
-    System.out.println(dq);
+    System.out.println(pq);
 
-    while (!dq.isEmpty())
-    {
-    System.out.println(dq.removeFirst());    
-    }
 
-    }
+while (!pq.isEmpty()) {
+    System.out.println(pq.remove());
+}
+   
+ }    
 }

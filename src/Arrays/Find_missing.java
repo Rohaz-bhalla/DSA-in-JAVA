@@ -9,7 +9,7 @@ public class Find_missing
         int a [] = { 1,2,3,4,5,7,8,9,10 };
         System.out.println(missingNumber(a,10));
     }    
-    public static int missingNumber(int a[],int N) // function calling Array a and expected value i.e 10
+    static int missingNumber(int a[],int N) // function calling Array a and expected value i.e 10
 
 
      {

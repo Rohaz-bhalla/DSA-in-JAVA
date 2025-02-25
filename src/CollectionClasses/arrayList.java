@@ -20,6 +20,8 @@ public class arrayList
         System.out.print("Enter your fifth name: ");
         String e = sc.nextLine();
 
+        sc.close();
+
         al.add(a);
         al.add(b);
         al.add(c);
