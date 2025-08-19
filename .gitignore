@@ -3,3 +3,5 @@ out/
 
 #ignore '.vscode' folder
 .vscode/
+
+desktop.ini
