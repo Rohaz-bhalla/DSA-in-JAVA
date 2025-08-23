@@ -6,7 +6,7 @@ public class sort_diagonals
 {
     public static void main(String[] args) 
     {
-        int a[][] = {{ 12,2,4 },{ 6,8,1 },{ 11,7,3 },{ 5,9,10 }};
+        int a[][] = {{ 3,3,1,1 },{ 2,2,1,1 },{ 1,1,1,2 }};
 
         System.out.println("--ORIGINAL MATRIX");
         printMatrix(a);

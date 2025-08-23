@@ -12,7 +12,7 @@ public class mirror_image_stack
         printMatrix(a);
 
         int b[][] = mirrorStack(a);
-       System.out.println("Mirror");
+    System.out.println("Mirror");
         printMatrix(b);
     }
 
@@ -30,9 +30,9 @@ public class mirror_image_stack
         Stack<Integer> st = new Stack<>();
         
         for(j=0; j<=N-1; j++)
-           {
+        {
             st.push(a[i][j]);
-           }
+        }
         
         for(j=0; j<=N-1; j++)
         {

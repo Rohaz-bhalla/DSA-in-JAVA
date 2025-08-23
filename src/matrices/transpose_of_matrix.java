@@ -5,13 +5,13 @@ public class transpose_of_matrix
 {
     public static void main(String[] args) 
     {
-         int a [][] = {{1,2,3,4},{5,6,7,8},{9,10,11,12}};
-         System.out.println("--ORIGINAL MATRIX--");
-         printMatrix(a);
+        int a [][] = {{1,2,3,4},{5,6,7,8},{9,10,11,12}};
+        System.out.println("--ORIGINAL MATRIX--");
+        printMatrix(a);
 
-         int b[][] = transpose(a);
-         System.out.println("--AFTER TRANSPOSE--");
-         printMatrix(b);
+        int b[][] = transpose(a);
+        System.out.println("--AFTER TRANSPOSE--");
+        printMatrix(b);
     }    
 
     static int[][] transpose(int a[][])
@@ -32,7 +32,7 @@ public class transpose_of_matrix
         return b;
     }
 
-     static void printMatrix(int a [][])
+    static void printMatrix(int a [][])
     {
         System.out.println("The matrix is");
         for(int i=0; i<=a.length-1;i++)
