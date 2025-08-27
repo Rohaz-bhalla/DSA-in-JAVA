@@ -26,7 +26,8 @@ class Solution {
 
         // delete the middle node by linking prev node to slow.next node
 
-        prev.next = slow.next;
+        prev.next = slow.next; 
+        // prev.next takes position of slow.next and slow.next moves ahead the midlle node gets deleted
 
         return head;
        
