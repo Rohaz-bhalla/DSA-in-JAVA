@@ -14,7 +14,7 @@ public class count_digits_tail
         }
         else
         {
-            int r = n % 10;
+            //int r = n % 10;
             countDigits(n / 10, count + 1 );
         }
     }
