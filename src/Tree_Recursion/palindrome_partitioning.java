@@ -57,7 +57,7 @@ public class palindrome_partitioning
             al.add(token);
         }
         return al;
-    }
+    } 
 
     static boolean allPalindromes( String ans )
     {
