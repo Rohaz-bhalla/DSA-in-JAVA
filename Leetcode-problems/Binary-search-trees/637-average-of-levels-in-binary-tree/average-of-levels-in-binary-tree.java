@@ -43,7 +43,8 @@ class Solution {
                 {
                     q.add( node.right );
                 }
-                total += node.val;
+                total += node.val; // in iteration stored val got added with the poll one 
+                                   // total = 0+1 -> 1 + 2 
             }
          al.add( total / n );
         }
