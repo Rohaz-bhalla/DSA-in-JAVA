@@ -6,7 +6,7 @@ Welcome to the **Data Structures and Algorithms in Java** repository! This proje
 
 ---
 
-## 📋 Table of Contents
+## ð Table of Contents
 - [About the Repository](#about-the-repository)
 - [Technologies Used](#technologies-used)
 - [Folder Structure](#folder-structure)
@@ -15,7 +15,7 @@ Welcome to the **Data Structures and Algorithms in Java** repository! This proje
 - 
 ---
 
-## 📖 About the Repository
+## ð About the Repository
 This repository is a compilation of commonly used **Data Structures** and **Algorithms**, written in Java. Each implementation is:
 - Well-commented and easy to understand.
 - Accompanied by example usage.
@@ -25,40 +25,40 @@ Whether you're preparing for coding interviews, solving competitive programming 
 
 ---
 
-## 🛠️ Technologies Used
+## ð ï¸ Technologies Used
 - **Java**: All code examples and implementations are written in Java.
 - **JUnit**: For unit testing (if applicable).
 - **Git**: Version control system.
 
 ---
 
-## 📂 Folder Structure
+## ð Folder Structure
 ```plaintext
-├── src
-│   ├── algorithms
-│   │   ├── sorting
-│   │   │   ├── BubbleSort.java
-│   │   │   ├── MergeSort.java
-│   │   │   └── QuickSort.java
-│   │   └── searching
-│   │       ├── BinarySearch.java
-│   │       └── LinearSearch.java
-│   ├── data_structures
-│   │   ├── LinkedList.java
-│   │   ├── Stack.java
-│   │   └── Queue.java
-│   └── problems
-│       ├── TwoSum.java
-│       └── LongestSubstring.java
-├── test
-│   └── TestSortingAlgorithms.java
-├── README.md
-└── LICENSE
+âââ src
+â   âââ algorithms
+â   â   âââ sorting
+â   â   â   âââ BubbleSort.java
+â   â   â   âââ MergeSort.java
+â   â   â   âââ QuickSort.java
+â   â   âââ searching
+â   â       âââ BinarySearch.java
+â   â       âââ LinearSearch.java
+â   âââ data_structures
+â   â   âââ LinkedList.java
+â   â   âââ Stack.java
+â   â   âââ Queue.java
+â   âââ problems
+â       âââ TwoSum.java
+â       âââ LongestSubstring.java
+âââ test
+â   âââ TestSortingAlgorithms.java
+âââ README.md
+âââ LICENSE
 ```
 
 ---
 
-## 🚀 How to Use
+## ð How to Use
 ### Prerequisites
 - Java Development Kit (JDK) installed.
 - Basic understanding of Java programming.
@@ -77,7 +77,7 @@ Whether you're preparing for coding interviews, solving competitive programming 
 
 ---
 
-## 📚 Topics Covered
+## ð Topics Covered
 ### Data Structures
 - Arrays
 - Linked Lists (Singly, Doubly, Circular)
@@ -101,7 +101,7 @@ Whether you're preparing for coding interviews, solving competitive programming 
 
 ---
 
-## 🤝 Contributing
+## ð¤ Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
@@ -125,4 +125,20 @@ Contributions are welcome! To contribute:
 
 ---
 
-Happy coding! 😊
+Happy coding! ð
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0075-sort-colors) |
+<!---LeetCode Topics End-->
