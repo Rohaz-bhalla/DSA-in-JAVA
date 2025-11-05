@@ -6,7 +6,7 @@ Welcome to the **Data Structures and Algorithms in Java** repository! This proje
 
 ---
 
-## ð Table of Contents
+## Ã°ÂÂÂ Table of Contents
 - [About the Repository](#about-the-repository)
 - [Technologies Used](#technologies-used)
 - [Folder Structure](#folder-structure)
@@ -15,7 +15,7 @@ Welcome to the **Data Structures and Algorithms in Java** repository! This proje
 - 
 ---
 
-## ð About the Repository
+## Ã°ÂÂÂ About the Repository
 This repository is a compilation of commonly used **Data Structures** and **Algorithms**, written in Java. Each implementation is:
 - Well-commented and easy to understand.
 - Accompanied by example usage.
@@ -25,40 +25,40 @@ Whether you're preparing for coding interviews, solving competitive programming 
 
 ---
 
-## ð ï¸ Technologies Used
+## Ã°ÂÂÂ Ã¯Â¸Â Technologies Used
 - **Java**: All code examples and implementations are written in Java.
 - **JUnit**: For unit testing (if applicable).
 - **Git**: Version control system.
 
 ---
 
-## ð Folder Structure
+## Ã°ÂÂÂ Folder Structure
 ```plaintext
-âââ src
-â   âââ algorithms
-â   â   âââ sorting
-â   â   â   âââ BubbleSort.java
-â   â   â   âââ MergeSort.java
-â   â   â   âââ QuickSort.java
-â   â   âââ searching
-â   â       âââ BinarySearch.java
-â   â       âââ LinearSearch.java
-â   âââ data_structures
-â   â   âââ LinkedList.java
-â   â   âââ Stack.java
-â   â   âââ Queue.java
-â   âââ problems
-â       âââ TwoSum.java
-â       âââ LongestSubstring.java
-âââ test
-â   âââ TestSortingAlgorithms.java
-âââ README.md
-âââ LICENSE
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ src
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ algorithms
+Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ sorting
+Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ BubbleSort.java
+Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ MergeSort.java
+Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ QuickSort.java
+Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ searching
+Ã¢ÂÂ   Ã¢ÂÂ       Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ BinarySearch.java
+Ã¢ÂÂ   Ã¢ÂÂ       Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ LinearSearch.java
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ data_structures
+Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ LinkedList.java
+Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Stack.java
+Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Queue.java
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ problems
+Ã¢ÂÂ       Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ TwoSum.java
+Ã¢ÂÂ       Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ LongestSubstring.java
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ test
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ TestSortingAlgorithms.java
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ README.md
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ LICENSE
 ```
 
 ---
 
-## ð How to Use
+## Ã°ÂÂÂ How to Use
 ### Prerequisites
 - Java Development Kit (JDK) installed.
 - Basic understanding of Java programming.
@@ -77,7 +77,7 @@ Whether you're preparing for coding interviews, solving competitive programming 
 
 ---
 
-## ð Topics Covered
+## Ã°ÂÂÂ Topics Covered
 ### Data Structures
 - Arrays
 - Linked Lists (Singly, Doubly, Circular)
@@ -101,7 +101,7 @@ Whether you're preparing for coding interviews, solving competitive programming 
 
 ---
 
-## ð¤ Contributing
+## Ã°ÂÂ¤Â Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
@@ -125,13 +125,14 @@ Contributions are welcome! To contribute:
 
 ---
 
-Happy coding! ð
+Happy coding! Ã°ÂÂÂ
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -141,4 +142,12 @@ Happy coding! ð
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
