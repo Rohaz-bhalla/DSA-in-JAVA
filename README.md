@@ -6,7 +6,7 @@ Welcome to the **Data Structures and Algorithms in Java** repository! This proje
 
 ---
 
-## Ã°ÂÂÂ Table of Contents
+## ÃÂ°ÃÂÃÂÃÂ Table of Contents
 - [About the Repository](#about-the-repository)
 - [Technologies Used](#technologies-used)
 - [Folder Structure](#folder-structure)
@@ -15,7 +15,7 @@ Welcome to the **Data Structures and Algorithms in Java** repository! This proje
 - 
 ---
 
-## Ã°ÂÂÂ About the Repository
+## ÃÂ°ÃÂÃÂÃÂ About the Repository
 This repository is a compilation of commonly used **Data Structures** and **Algorithms**, written in Java. Each implementation is:
 - Well-commented and easy to understand.
 - Accompanied by example usage.
@@ -25,40 +25,40 @@ Whether you're preparing for coding interviews, solving competitive programming 
 
 ---
 
-## Ã°ÂÂÂ Ã¯Â¸Â Technologies Used
+## ÃÂ°ÃÂÃÂÃÂ ÃÂ¯ÃÂ¸ÃÂ Technologies Used
 - **Java**: All code examples and implementations are written in Java.
 - **JUnit**: For unit testing (if applicable).
 - **Git**: Version control system.
 
 ---
 
-## Ã°ÂÂÂ Folder Structure
+## ÃÂ°ÃÂÃÂÃÂ Folder Structure
 ```plaintext
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ src
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ algorithms
-Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ sorting
-Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ BubbleSort.java
-Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ MergeSort.java
-Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ QuickSort.java
-Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ searching
-Ã¢ÂÂ   Ã¢ÂÂ       Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ BinarySearch.java
-Ã¢ÂÂ   Ã¢ÂÂ       Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ LinearSearch.java
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ data_structures
-Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ LinkedList.java
-Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Stack.java
-Ã¢ÂÂ   Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Queue.java
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ problems
-Ã¢ÂÂ       Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ TwoSum.java
-Ã¢ÂÂ       Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ LongestSubstring.java
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ test
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ TestSortingAlgorithms.java
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ README.md
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ LICENSE
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ src
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ algorithms
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ sorting
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ BubbleSort.java
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ MergeSort.java
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ QuickSort.java
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ searching
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ       ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ BinarySearch.java
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ       ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ LinearSearch.java
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ data_structures
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ LinkedList.java
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Stack.java
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Queue.java
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ problems
+ÃÂ¢ÃÂÃÂ       ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ TwoSum.java
+ÃÂ¢ÃÂÃÂ       ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ LongestSubstring.java
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ test
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ TestSortingAlgorithms.java
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ README.md
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ LICENSE
 ```
 
 ---
 
-## Ã°ÂÂÂ How to Use
+## ÃÂ°ÃÂÃÂÃÂ How to Use
 ### Prerequisites
 - Java Development Kit (JDK) installed.
 - Basic understanding of Java programming.
@@ -77,7 +77,7 @@ Whether you're preparing for coding interviews, solving competitive programming 
 
 ---
 
-## Ã°ÂÂÂ Topics Covered
+## ÃÂ°ÃÂÃÂÃÂ Topics Covered
 ### Data Structures
 - Arrays
 - Linked Lists (Singly, Doubly, Circular)
@@ -101,7 +101,7 @@ Whether you're preparing for coding interviews, solving competitive programming 
 
 ---
 
-## Ã°ÂÂ¤Â Contributing
+## ÃÂ°ÃÂÃÂ¤ÃÂ Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
@@ -125,7 +125,7 @@ Contributions are welcome! To contribute:
 
 ---
 
-Happy coding! Ã°ÂÂÂ
+Happy coding! ÃÂ°ÃÂÃÂÃÂ
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -134,14 +134,17 @@ Happy coding! Ã°ÂÂÂ
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Rohaz-bhalla/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
