@@ -6,7 +6,7 @@ public class checkPanagram
 {
     public static void main(String[] args) 
     {
-        String s = "the quick brown fox jumpos over lazy dog";
+        String s = "the quick brown fox jumps over lazy dog";
         System.out.println(isPanagram(s));
     }
 
